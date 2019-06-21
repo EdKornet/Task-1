@@ -96,7 +96,7 @@ let appData = {
     }
 };
 
-appData.chooseIncome();
+
 let allData = "";
 for (let key in appData){
    allData = allData + appData[key];
