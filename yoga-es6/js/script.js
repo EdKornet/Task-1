@@ -170,7 +170,5 @@ class Options {
 
 let blat = new Options(100, 200, 'blue', 10, 'center');
 
-console.log(blat);
-
 blat.createDiv('text');
 
